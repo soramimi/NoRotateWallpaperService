@@ -1,0 +1,9 @@
+<wallpaper
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:thumbnail="@drawable/wallpaper"
+    android:description="@string/app_name"
+/>
+
+
+
+
